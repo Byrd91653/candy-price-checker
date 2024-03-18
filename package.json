@@ -1,0 +1,39 @@
+{
+  "name": "candy-price-checker",
+  "version": "1.0.0",
+  "description": "check btc price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Byrd91653",
+  "license": "ISC",
+  "dependencies": {
+    "alt-price-checker": "^1.0.0",
+    "axios": "^1.6.8",
+    "bnb-price-checker": "^1.0.3",
+    "chalk": "^5.3.0",
+    "cryptocompare": "^1.0.0",
+    "echarts": "^3.5.4",
+    "element-ui": "^1.2.9",
+    "eth-price-checker": "^1.0.0",
+    "jup-price-checker": "^1.0.1",
+    "shell-oooooyoung": "^1.1.9",
+    "sol-price-checker": "^1.0.2",
+    "strk-price-check": "^1.0.0",
+    "time-formater": "^1.0.1",
+    "vue": "^2.2.6",
+    "vue-quill-editor": "^2.2.1",
+    "vue-router": "^2.3.1",
+    "vue-simplemde": "^0.3.8",
+    "vuex": "^2.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Byrd91653/candy-price-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Byrd91653/candy-price-checker/issues"
+  },
+  "homepage": "https://github.com/Byrd91653/candy-price-checker/blob/main/README.md"
+}
